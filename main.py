@@ -83,4 +83,4 @@ def dict_func(my_dict):
 
 my_dict = {"Type": "laptop", "Brand": "Huawei", "Price": 700}
 #my_dict = {"Type": "laptop", "Price": 700}
-dict_func(my_dict)
+new_dict = dict_func(my_dict)
